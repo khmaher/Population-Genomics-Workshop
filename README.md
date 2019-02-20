@@ -9,7 +9,7 @@ Although we will provide the necessary commands for the practicals we will teach
 
 [Iceberg and basic linux tutorial](http://openwetware.org/wiki/Butlin:Unix_for_Bioinformatics_-_basic_tutorial)
 
-[Alternative linux tutorial](http://linuxcommand.org/lc3_learning_the_shell.php)
+[Learning the Shell and Writing Shell Scripts](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 [Linux and Shell cheatsheet](http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html)
 
