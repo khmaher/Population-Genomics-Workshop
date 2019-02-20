@@ -7,9 +7,13 @@ Although we will provide the necessary commands for the practicals we will teach
 
 [Online command-line ‘bootcamp’](http://rik.smith-unna.com/command_line_bootcamp/?id=g4gaphxtmz4)
 
-[Basic tutorial](http://openwetware.org/wiki/Butlin:Unix_for_Bioinformatics_-_basic_tutorial)
+[Iceberg and basic linux tutorial](http://openwetware.org/wiki/Butlin:Unix_for_Bioinformatics_-_basic_tutorial)
+
+[Alternative linux tutorial]http://linuxcommand.org/lc3_learning_the_shell.php
 
 [Linux and Shell cheatsheet](http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html)
+
+[A-Z Index of the Linux commands](http://ss64.com/bash/)
 
 
 ## Connecting to Iceberg from Windows
