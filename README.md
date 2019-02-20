@@ -87,46 +87,18 @@ Your account is set up to use the Genomics Software Repository
 ```
 
 
-##Schedule Population Genomics Workshop - February 2019
+## Schedule and links to exercises
+
+|Session|Date and time|Teacher|
+|---|---|---|
+|OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||
+|[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|
+|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|
+|[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|
+|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|
+|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-12.30pm|Victor Soria-Carrasco|
+|[OPTIONAL EXTRA: GWAS using GenABEL](https://github.com/mestocks/gwas-workshop)|To be done in own time|Victor Soria-Carrasco|
+
+NB we will not have time to go through the **GWAS using GenABEL** exercise during the workshop but it is included above as an extra worked example.
 
 
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/khmaher/Population-Genomics-Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khmaher/Population-Genomics-Workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
