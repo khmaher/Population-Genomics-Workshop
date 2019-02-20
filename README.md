@@ -16,7 +16,7 @@ Although we will provide the necessary commands for the practicals we will teach
 
 You can connect to Iceberg through your [web browser](https://myapps.shef.ac.uk/sgd/index.jsp?langSelected=en&SGD_Token=Epc6zWBl1mzYDM~hmN3q51gRAYIEkWvf) by entering your username and password.
 
-Once you have logged in you should be put on the head node. You must log in to a worker node by typing:
+Once you have logged in you should be put onto the head node. You must log in to a worker node by typing:
 
 ```markdown
 qsh
@@ -78,25 +78,16 @@ Note: **The repository is only accessible from the working nodes**, so you wonâ€
 to any program from the head nodes.
 
 
-
-If the repository is set up correctly, you should see the following message every time you log in a working node:
-
-```markdown
-Your account is set up to use the Genomics Software Repository
-    More info: http://soria-carrasco.staff.shef.ac.uk/softrepo
-```
-
-
 ## Schedule and links to exercises
 
 |Session|Date and time|Teacher|
 |---|---|---|
-|OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||
-|[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|
-|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|
-|[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|
-|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|
-|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-12.30pm|Victor Soria-Carrasco|
+|1. OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||
+|2. [SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|
+|3. [Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|
+|4. [Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|
+|5. [Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|
+|6. [Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-12.30pm|Victor Soria-Carrasco|
 |[OPTIONAL EXTRA: GWAS using GenABEL](https://github.com/mestocks/gwas-workshop)|To be done in own time|Victor Soria-Carrasco|
 
 NB we will not have time to go through the **GWAS using GenABEL** exercise during the workshop but it is included above as an extra worked example.
