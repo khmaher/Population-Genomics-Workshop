@@ -1,11 +1,22 @@
 ### Katy Maher, Victor Soria-Carrasco, Toni Gossmann, Henry Barton
 
+## Linux tutorials and cheat sheets
+Before you start it is useful to get familiar with some basic linux commands.
+
+Although we will provide the necessary commands for the practicals we will teach, they assume knowledge of the basics. Below are some useful links to go through before the start of the workshop or revisit as a reminder after. 
+
+[Online command-line ‘bootcamp’](http://rik.smith-unna.com/command_line_bootcamp/?id=g4gaphxtmz4)
+
+[Basic tutorial](http://openwetware.org/wiki/Butlin:Unix_for_Bioinformatics_-_basic_tutorial)
+
+[Linux and Shell cheatsheet](http://rcg.group.shef.ac.uk/courses/linux/shell-cheatsheet.html)
+
 
 ## Connecting to Iceberg from Windows
 
 You can connect to Iceberg through your [web browser](https://myapps.shef.ac.uk/sgd/index.jsp?langSelected=en&SGD_Token=Epc6zWBl1mzYDM~hmN3q51gRAYIEkWvf) by entering your username and password.
 
-Once you have logged in you should be on a head node. You must log in to a worker node by typing:
+Once you have logged in you should be put on the head node. You must log in to a worker node by typing:
 
 ```markdown
 qsh
@@ -48,8 +59,20 @@ First we will add the path to the genomics software repository to your $PATH env
 ```markdown
 echo -e "if [[ -e '/usr/local/extras/Genomics' ]];\nthen\n\tsource /usr/local/extras/Genomics/.bashrc\nfi" >> $HOME/.bash_profile
 
+```
+
+If the repository is set up correctly, you should see the following message after you type:
+
+```markdown
 source .bash_profile
 ```
+
+```markdown
+Your account is set up to use the Genomics Software Repository
+    More info: http://soria-carrasco.staff.shef.ac.uk/softrepo
+```
+
+You should also get this message every time you log onto a working node.
 
 Note: **The repository is only accessible from the working nodes**, so you won’t have access
 to any program from the head nodes.
@@ -62,6 +85,9 @@ If the repository is set up correctly, you should see the following message ever
 Your account is set up to use the Genomics Software Repository
     More info: http://soria-carrasco.staff.shef.ac.uk/softrepo
 ```
+
+
+##Schedule Population Genomics Workshop - February 2019
 
 
 
