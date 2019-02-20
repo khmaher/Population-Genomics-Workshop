@@ -61,15 +61,15 @@ echo -e "if [[ -e '/usr/local/extras/Genomics' ]];\nthen\n\tsource /usr/local/ex
 
 ```
 
-If the repository is set up correctly, you should see the following message after you type:
-
-```markdown
-source .bash_profile
-```
-
+If the repository is set up correctly, you should see the following message 
 ```markdown
 Your account is set up to use the Genomics Software Repository
     More info: http://soria-carrasco.staff.shef.ac.uk/softrepo
+```
+after you type:
+
+```markdown
+source .bash_profile
 ```
 
 You should also get this message every time you log onto a working node.
