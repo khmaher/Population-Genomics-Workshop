@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+### Katy Maher, Victor Soria-Carrasco, Toni Gossmann, Henry Barton
+
+
+## Connecting to iceberg from Windows
+
+You can connect to iceberg through your [web browser](https://myapps.shef.ac.uk/sgd/index.jsp?langSelected=en&SGD_Token=Epc6zWBl1mzYDM~hmN3q51gRAYIEkWvf) by entering your username and password.
+
+Once you have logged in you must log in to a worker node by typing:
+
+```markdown
+qsh
+```
 
 You can use the [editor on GitHub](https://github.com/khmaher/Population-Genomics-Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
