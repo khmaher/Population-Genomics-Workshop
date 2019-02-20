@@ -82,12 +82,12 @@ to any program from the head nodes.
 
 |Session|Date and time|Teacher|
 |---|---|---|
-|OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||
+|OPTIONAL: Introduction to Linux|Tuesday 26th March 11-1pm||
 |[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|
-|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|
+|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30-1pm|Toni Gossmann|
 |[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|
 |[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|
-|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-12.30pm|Victor Soria-Carrasco|
+|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9-12.30pm|Victor Soria-Carrasco|
 |[OPTIONAL EXTRA: GWAS using GenABEL](https://github.com/mestocks/gwas-workshop)|To be done in own time|Victor Soria-Carrasco|
 
 NB we will not have time to go through the **GWAS using GenABEL** exercise during the workshop but it is included above as an extra worked example.
