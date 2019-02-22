@@ -97,7 +97,8 @@ to any program from the head nodes.
 |Lunch|Wednesday 27th March 1-2pm||Turner Museum|
 |[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|E61 Computer Room SRHB|
 |Coffee|Wednesday 27th March 3.30-4pm||The Diamond Exhibition Space|
-|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|Pizza Social|Wednesday 27th March from 6pm||Interval|
 |[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-10.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
 |OPTIONAL - tour of the molecular ecology lab|Thursday 28th March 10am|Rachel Tucker|Molecular Ecology Lab ADB|
 |Coffee|Thursday 28th March 10.30-11am||Turner Museum|
