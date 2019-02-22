@@ -84,15 +84,26 @@ to any program from the head nodes.
 
 ## Schedule and links to exercises
 
-|Session|Date and time|Teacher|
-|---|---|---|
-|OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||
-|[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|
-|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|
-|[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|
-|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|
-|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-12.30pm|Victor Soria-Carrasco|
-|[OPTIONAL EXTRA: GWAS using GenABEL](https://github.com/mestocks/gwas-workshop)|To be done in own time|Victor Soria-Carrasco|
+|Session|Date and time|Teacher|Location|
+|---|---|---|---|
+|OPTIONAL: Introduction to Linux|Tuesday 26th March 11am-1pm||E61 Computer Room SRHB|
+|Lunch|Tuesday 26th March 1-2pm||Turner Museum|
+|Introduction and presentation on SNP calling|Tuesday 26th March 2-3.30pm|Katy Maher|E61 Computer Room SRHB|
+|Coffee|Tuesday 26th March 3.30-4pm||Turner Museum|
+|[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|E61 Computer Room SRHB|
+|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|E61 Computer Room SRHB|
+|Coffee|Wednesday 27th March 10.30-11am||Turner Museum|
+|PopGenome cont.|Wednesday 27th March 10.30am-1pm|Toni Gossmann|E61 Computer Room SRHB|
+|[Genetic structure](https://khmaher.github.io/popgenomicsworkshop-structure)|Wednesday 27th March 2-3.30pm|Katy Maher|E61 Computer Room SRHB|
+|Coffee|Wednesday 27th March 3.30-4pm||The Diamond Exhibition Space|
+|[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5-30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-10.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|OPTIONAL - tour of the molecular ecology lab|Thursday 28th March 10am|Rachel Tucker|Molecular Ecology Lab ADB|
+|Coffee|Thursday 28th March 10.30-11am||Turner Museum|
+|OPTIONAL - tour of the molecular ecology lab|Thursday 28th March 11am|Rachel Tucker|Molecular Ecology Lab ADB|
+|GWAS cont.|Thursday 28th March 11-12.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|Final discussion and wrap up|Thursday 28th March 12.30-13.00pm|E61 Computer Room SRHB|
+|[OPTIONAL EXTRA: GWAS using GenABEL](https://github.com/mestocks/gwas-workshop)|To be done in own time|Victor Soria-Carrasco||
 
 NB we will not have time to go through the **GWAS using GenABEL** exercise during the workshop but it is included above as an extra worked example.
 
