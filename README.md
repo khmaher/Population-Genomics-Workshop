@@ -99,11 +99,12 @@ to any program from the head nodes.
 |Coffee|Wednesday 27th March 3.30-4pm||The Diamond Exhibition Space|
 |[Detecting selection](https://visoca.github.io/popgenomworkshop-hmm/)|Wednesday 27th March 4-5.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
 |Pizza Social|Wednesday 27th March from 6pm||Interval|
-|[Genome-wide association studies (GWAS)](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-10.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
-|OPTIONAL - tour of the molecular ecology lab|Thursday 28th March 10am|Rachel Tucker|Molecular Ecology Lab ADB|
+|[Genome-wide association studies (GWAS) using gemma](https://visoca.github.io/popgenomworkshop-gwas_gemma)|Thursday 28th March 9am-10.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|OPTIONAL: Tour of the molecular ecology lab|Thursday 28th March 10am|Rachel Tucker|Molecular Ecology Lab ADB|
 |Coffee|Thursday 28th March 10.30-11am||Turner Museum|
-|OPTIONAL - tour of the molecular ecology lab|Thursday 28th March 11am|Rachel Tucker|Molecular Ecology Lab ADB|
+|OPTIONAL: Tour of the molecular ecology lab|Thursday 28th March 11am|Rachel Tucker|Molecular Ecology Lab ADB|
 |GWAS cont.|Thursday 28th March 11-12.30pm|Victor Soria-Carrasco|E61 Computer Room SRHB|
+|OPTIONAL extra: [GWAS using genabel](https://visoca.github.io/popgenomworkshop-gwas_genabel/)|To be completed in own time|||
 |Final discussion and wrap up|Thursday 28th March 12.30-13.00pm|E61 Computer Room SRHB|
 |Lunch|Thursday 28th March 1-2pm||Turner Museum|
 
