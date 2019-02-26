@@ -91,7 +91,7 @@ to any program from the head nodes.
 |Introduction and presentation on SNP calling|Tuesday 26th March 2-3.30pm|Katy Maher|E61 Computer Room SRHB|
 |Coffee|Tuesday 26th March 3.30-4pm||Turner Museum|
 |[SNP calling and filtering overview](https://henryjuho.github.io/uspopgen/)|Tuesday 26th March 4-5.30pm|Henry Barton|E61 Computer Room SRHB|
-|[Population genomic analyses using PopGenome](http://tonig-evo.github.io/workshop-popgenome/)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|E61 Computer Room SRHB|
+|[Population genomic analyses using PopGenome](https://github.com/tonig-evo/workshop-popgenome)|Wednesday 27th March 10.30am-1pm|Toni Gossmann|E61 Computer Room SRHB|
 |Coffee|Wednesday 27th March 10.30-11am||Turner Museum|
 |PopGenome cont.|Wednesday 27th March 10.30am-1pm|Toni Gossmann|E61 Computer Room SRHB|
 |Lunch|Wednesday 27th March 1-2pm||Turner Museum|
